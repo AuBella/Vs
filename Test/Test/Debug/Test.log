@@ -1,0 +1,13 @@
+﻿Build started 12/15/2014 11:08:50 AM.
+     1>Project "C:\Users\bo_jwolf\Documents\Visual Studio 2013\Projects\Test\Test\Test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\users\bo_jwolf\documents\visual studio 2013\projects\test\test\test.cpp(7): error C2117: 'movie_star' : array bounds overflow
+                 c:\users\bo_jwolf\documents\visual studio 2013\projects\test\test\test.cpp(7) : see declaration of 'movie_star'
+                 c:\users\bo_jwolf\documents\visual studio 2013\projects\test\test\test.cpp(7) : see declaration of 'movie_star'
+     1>Done Building Project "C:\Users\bo_jwolf\Documents\Visual Studio 2013\Projects\Test\Test\Test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.48
